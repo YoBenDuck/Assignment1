@@ -1,23 +1,52 @@
 //STEP1
 
-/* var someMonth;
+/* 
+var someMonth;
 function theMonth;
 currentMonth;
 var summerMonth;
-myLibraryaFunction;*/
+myLibraryAFunction;
+*/
 
-//STEP3
+//STEP2
 
+/*
+3.295e10
+"My name is Ben"
+true
+null
+*/
+
+//STEP4
+
+var strFirstName;  
+var strLastName; 
+var strAddress;
+var strCity;
+var strState;
+var strZipCode;
+var strYourAge;
+var strReferralSource;
+var strMayWeContactYou;
+
+//STEP5
 
 //STEP6
+
+/*
 var first = "My score is:" + 500;
 console.log(first);
 
 var dog = true + " My dog is nice";
 console.log(dog); 
 
-var cat = 500 + false;
+var cat = 500/false;
+console.log(cat);
+*/
 
-//STEP
+//STEP7
+
+/* declare variables */
+
 
 
